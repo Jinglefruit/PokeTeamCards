@@ -3,7 +3,7 @@ Balatro mod to add a selection of Pokemon as deck suits.
 
 Installation:
 
-Ensure you have lovely and steammodded installed correctly.
+Ensure you have lovely (https://github.com/ethangreen-dev/lovely-injector) and steamodded (https://github.com/Steamodded/smods) installed correctly.
 
 Download the pokecards.zip file here.
 
