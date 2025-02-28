@@ -1,4 +1,6 @@
-Balatro mod to add a selection of Pokemon as deck suits.
+Balatro mod to add around 700 pokemon to face cards, across 252 new suit skin options (63 choices for each suit.) Made to work and as a supplement to the Pokermon mod.
+
+This is currently a working v0.9 beta build, I intend on a full 1.0 release soon adding even more options.
 
 
 Installation:
