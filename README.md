@@ -1,9 +1,21 @@
-PokeTeamCards
+Balatro mod which adds ALL pokemon as face card options. There are 1736 new suit skin options, each with a combination of 3 pokemon and a colour setting for the vanilla rank cards. If you use other mods which adds new ranks (eg 0, pi or 21s), you will need to pick a suit option which matches the base game style to fit in with the other mod. 
 
-Balatro mod to add a selection of Pokemon as deck suits.
+This is a purely texture adding mod, compatible with everything as this adds additional options in settings. Initially made to supplement the Pokermon mod, but works with vanilla and other mods.
+Each option has at least one low contrast version matching the base game, and most have a high contrast version or a reasonably close match. There are also many additional colour choices, largely to match the pokemon or it's type. 
+
+Every pokemon and most forms are available, in roughly 100 options per suit, each with several sub options. There is a Random option at the end which randomly selects 4 designs each time you load the game, with at least one guaranteed to match the Low Contrast Mode from the base game. Check it often enough and maybe you'll find a secret option or two. ;)
+
+Dependencies and prerequisites required to use this Mod
+    Lovely
+    Steamodded
+
 
 Installation:
-Ensure you have lovely and steammodded installed correctly.
+
+Ensure you have lovely (https://github.com/ethangreen-dev/lovely-injector) and steamodded (https://github.com/Steamodded/smods) installed correctly.
+
 Download the pokecards.zip file here.
+
 Extract the files into your %Appdata%/Balatro/Mods folder.
+
 Open the game, and new options should be available within Options -> Customise Deck.
