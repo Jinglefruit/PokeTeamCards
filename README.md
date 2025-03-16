@@ -5,6 +5,11 @@ Each option has at least one low contrast version matching the base game, and mo
 
 Every pokemon and most forms are available, in roughly 100 options per suit, each with several sub options. There is a Random option at the end which randomly selects 4 designs each time you load the game, with at least one guaranteed to match the Low Contrast Mode from the base game. Check it often enough and maybe you'll find a secret option or two. ;)
 
+Future Plans:
+No significant additions planned, but I do intend on changing the menu system to be a bit easier to find Pokemon that are on multiple options.
+Any feedback will be taken on board. I'll probably make pokemon sizes more uniform eventually, but for now, consider it a feature that you can chose how much of the card the pokemon occupies/covers.
+
+
 Dependencies and prerequisites required to use this Mod
     Lovely
     Steamodded
@@ -19,3 +24,5 @@ Download the pokecards.zip file here.
 Extract the files into your %Appdata%/Balatro/Mods folder.
 
 Open the game, and new options should be available within Options -> Customise Deck.
+
+OPTIONAL: Feel free to edit the pokecards.lua file to delete entries from the menu. - A version which only keeps 3 stage evos and 'trios' can be found in the discord, but personally I'd just delete the ones I know I won't use. Any entries removed in this way will still sometimes show up in the 'random' option. 
