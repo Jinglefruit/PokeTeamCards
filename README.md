@@ -1,12 +1,14 @@
-Balatro mod which adds ALL pokemon as face card options. There are 1736 new suit skin options, each with a combination of 3 pokemon and a colour setting for the vanilla rank cards. If you use other mods which adds new ranks (eg 0, pi or 21s), you will need to pick a suit option which matches the base game style to fit in with the other mod. 
+Balatro mod which adds ALL pokemon as face card options. There are 2000 new suit skin options, each with a combination of 3 pokemon and a colour setting for the vanilla rank cards. If you use other mods which adds new ranks (eg 0, pi or 21s), you will need to pick a suit option which matches the base game style to fit in with the other mod. 
 
 Every pokemon and most forms are available, in roughly 100 options per suit, each with several sub options. Each option has at least one low contrast version matching the base game, and most have a high contrast version or a reasonably close match. There are also many additional colour choices, largely to match the pokemon or it's type.
 There is an extra Random option at the end which randomly selects 4 designs each time you load the game, with at least one guaranteed to match the Low Contrast Mode from the base game. Check it often enough and maybe you'll find a secret option or two. ;)
 
 
 Future Plans:
-No significant additions planned, but I do intend on changing the menu system to be a bit easier to find Pokemon that are on multiple options.
-Any feedback will be taken on board. I'll probably make pokemon sizes more uniform eventually, but for now, consider it a feature that you can chose how much of the card the pokemon occupies/covers.
+Plan is to update the remaining 11 Z-A megas with new icons when their sprites become available, for now they have their official art temporarily. - Likely will update in September or December to add these.
+Hopefully will be able to re-add the random options and add another couple settings I have planned.
+Potentially add recoloured suit icons to match custom colours.
+Potentially a spin off light weight mod coming.
 
 
 
